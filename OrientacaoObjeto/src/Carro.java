@@ -39,7 +39,8 @@ public class Carro {
     }
 
     public double valorEncherTanque(double valorGasolina, double desconto) {
-        return (capacidadeTanque * valorGasolina) * desconto / 100;
+        double parcial = capacidadeTanque * valorGasolina;
+        return parcial - (parcial * desconto /100);
     }
 
 }
