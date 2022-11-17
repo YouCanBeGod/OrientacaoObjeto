@@ -1,4 +1,6 @@
-public class Carro extends Veiculo {
+package Fundamentos;
+
+public class Carro {
 
     String modelo;
     String cor;
