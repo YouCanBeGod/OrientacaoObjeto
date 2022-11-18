@@ -1,4 +1,4 @@
-package RelacoesEntreClasses.Associacao;
+package ConceitosRelacionais.Associacao;
 
 public class Pessoa {
 

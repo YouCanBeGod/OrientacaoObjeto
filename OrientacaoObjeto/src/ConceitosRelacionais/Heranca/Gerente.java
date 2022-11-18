@@ -1,4 +1,4 @@
-package RelacoesEntreClasses.Heranca;
+package ConceitosRelacionais.Heranca;
 
 public class Gerente extends Funcionario {
 }

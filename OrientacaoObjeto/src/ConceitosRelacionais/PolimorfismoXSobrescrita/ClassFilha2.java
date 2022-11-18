@@ -1,4 +1,4 @@
-package RelacoesEntreClasses.PolimorfismoXSobrescrita;
+package ConceitosRelacionais.PolimorfismoXSobrescrita;
 
 public class ClassFilha2 extends ClassMae {
 
