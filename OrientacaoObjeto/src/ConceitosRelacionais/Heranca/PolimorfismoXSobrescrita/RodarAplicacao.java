@@ -1,4 +1,4 @@
-package ConceitosRelacionais.PolimorfismoXSobrescrita;
+package ConceitosRelacionais.Heranca.PolimorfismoXSobrescrita;
 
 public class RodarAplicacao {
 
